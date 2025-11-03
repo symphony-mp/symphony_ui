@@ -1,7 +1,10 @@
 {
   "cSpell.words": [
+    "magnifer",
     "pubspec",
+    "softuiux",
     "softyes"
   ],
-  "dart.flutterSdkPath": ".fvm/versions/3.35.6"
+  "dart.flutterSdkPath": ".fvm/versions/3.35.7",
+  "makefile.configureOnOpen": false
 }
